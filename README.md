@@ -25,4 +25,4 @@ Files:
 ## <a href="Template-Pixel_Arts-H4K-LHoFT.xlsx">Template-Pixel_Arts-H4K-LHoFT.xlsx</a>
 Goal: Give templates to reproduce basic post it art. Warning - Xls document, need to be downloaded to be displayed.
 
-Type: Xls document with many design proposals. Adapted to use the colors of HEMA post-it clones (weird colors, but cheap) - Note: Some graphics are inspired from © works by other right holders.
+Type: Xls document with many design proposals. Adapted to use the colors of HEMA post-it clones (weird colors, me knows) - Note: Some graphics are inspired from © works by other right holders.
