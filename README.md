@@ -13,7 +13,7 @@ Files:
 <p>Type: Support for a presentation.</p>
 
 ## <a href="Fortnite-LHoFT-ToU.key">Fortnite-LHoFT-ToU.key</a>
-<p>Goal: Initiate kids to the unsecurity of backdoors in IT. Introduce Fortnite Terms of Use. End on a discussion about PEGI and privacy policy issues. Warning - keynote document, need to be downloaded to be displayed.</p>
+<p>Goal: Initiate kids to 3D printing & the unsecurity of backdoors in IT. Introduce Fortnite Terms of Use. End on a discussion about PEGI and privacy policy issues. Warning - keynote document, need to be downloaded to be displayed.</p>
 
 <p>Type: Support for a presentation.</p>
 
