@@ -13,7 +13,7 @@ Files:
 <p>Type: Support for a presentation.</p>
 
 ## <a href="Fortnite-LHoFT-ToU.key">Fortnite-LHoFT-ToU.key</a>
-<p>Goal: Initiate kids to the unsecurity of backdoors in IT. Introduce Fortnite Terms of Use. End on a discussion about PEGI and privacy policy issues. Warning - keynote document, need to be downloaded to be displayed.</p>
+<p>Goal: Initiate kids to 3D printing & the unsecurity of backdoors in IT. Introduce Fortnite Terms of Use. End on a discussion about PEGI and privacy policy issues. Warning - keynote document, need to be downloaded to be displayed.</p>
 
 <p>Type: Support for a presentation.</p>
 
@@ -25,4 +25,4 @@ Files:
 ## <a href="Template-Pixel_Arts-H4K-LHoFT.xlsx">Template-Pixel_Arts-H4K-LHoFT.xlsx</a>
 Goal: Give templates to reproduce basic post it art. Warning - Xls document, need to be downloaded to be displayed.
 
-Type: Xls document with many design proposals. Adapted to use the colors of HEMA post-it clones (weird colors, but cheap) - Note: Some graphics are inspired from © works by other right holders.
+Type: Xls document with many design proposals. Adapted to use the colors of HEMA post-it clones (weird colors, me knows) - Note: Some graphics are inspired from © works by other right holders.
