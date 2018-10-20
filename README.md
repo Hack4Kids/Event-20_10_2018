@@ -23,6 +23,11 @@ Files:
 <p>Type: Movie.</p>
 
 ## <a href="Template-Pixel_Arts-H4K-LHoFT.xlsx">Template-Pixel_Arts-H4K-LHoFT.xlsx</a>
-Goal: Give templates to reproduce basic post it art. Warning - Xls document, need to be downloaded to be displayed.
+<p>Goal: Give templates to reproduce basic post it art. Warning - Xls document, need to be downloaded to be displayed.</p>
 
-Type: Xls document with many design proposals. Adapted to use the colors of HEMA post-it clones (weird colors, me knows) - Note: Some graphics are inspired from © works by other right holders.
+<p>Type: Xls document with many design proposals. Adapted to use the colors of HEMA post-it clones (weird colors, me knows) - Note: Some graphics are inspired from © works by other right holders.</p>
+
+## <a href="Fortnite_Hack4Kids_v2.sb2">Fortnite_Hack4Kids_v2.sb2</a>
+<p>Goal: Hack my Game material for scratch. A set, a game dancer, grenades raining... but some things are missing. Can you learn scratch by adding them? Game originally created by M. Farcot with support from P. Wlfringer.</p>
+
+<p>Type: .sb2 (scratch file).</p>
