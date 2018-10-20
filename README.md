@@ -28,6 +28,6 @@ Files:
 <p>Type: Xls document with many design proposals. Adapted to use the colors of HEMA post-it clones (weird colors, me knows) - Note: Some graphics are inspired from © works by other right holders.</p>
 
 ## <a href="Fortnite_Hack4Kids_v2.sb2">Fortnite_Hack4Kids_v2.sb2</a>
-<p>Goal: Hack my Game material for scratch. A set, a game dancer, grenades raining... but some things are missing. Can you learn scratch by adding them? Game originally created by M. Farcot with very good support and added code from P. Welfringer.</p>
+<p>Goal: Hack my Game material for scratch. A set, a game dancer, grenades raining... but some things are missing. Can you learn scratch by adding them? Game originally created by Matthieu with very good support and added code from Patrick.</p>
 
 <p>Type: .sb2 (scratch file). Note: last version of the game might be hosted <a href="https://scratch.mit.edu/projects/254131020/">here (mit scratch Hack4kids repo)</a>. </p>
