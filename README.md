@@ -2,7 +2,7 @@
 
 Material for the Hack4Kids @ the Luxembourg House of Fintech
 
-All material is licensed under CC-BY-SA 4.0 (unless specified otherwise).
+All material is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/"> CC-BY-SA 4.0 </a>(unless specified otherwise).
 
 
 Files:
