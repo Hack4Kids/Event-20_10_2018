@@ -1,9 +1,10 @@
 # H4K@LHoFT
 
-Material for the Hack4Kids @ the Luxembourg House of Fintech
+Material for the Hack4Kids @ the Luxembourg House of Fintech.
 
 All material is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/"> CC-BY-SA 4.0 </a>(unless specified otherwise).
 
+If you use and/or like the material, do not hesitate to say hello on <a href="https://www.facebook.com/Hack4Kids/">our facebook page </a> or <a href="https://twitter.com/Hack4Kids">twitter feed</a>.
 
 Files:
 
