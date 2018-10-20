@@ -8,6 +8,9 @@ If you use and/or like the material, do not hesitate to say hello on <a href="ht
 
 Files:
 
+## <a href="H4K-LHoFT.png">H4K-LHoFT.png<a>
+  <p>Type: Our event logo.</p>
+
 ## <a href="H4K_Network-Game_LHoFT.pptx">H4K_Network-Game_LHoFT.pptx</a>
 <p>Goal: Initiate kids to how the Internet works. Warning - pptx document, need to be downloaded to be displayed. Notes on slides indicate how to deliver game.</p>
 
