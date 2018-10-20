@@ -31,3 +31,6 @@ Files:
 <p>Goal: Hack my Game material for scratch. A set, a game dancer, grenades raining... but some things are missing. Can you learn scratch by adding them? Game originally created by Matthieu with very good support and added code from Patrick.</p>
 
 <p>Type: .sb2 (scratch file). Note: last version of the game might be hosted <a href="https://scratch.mit.edu/projects/254131020/">here (mit scratch Hack4kids repo)</a>. </p>
+
+<p> <b>Staement as requiered by Epic Game's fan art policy:</b>
+Portions of the materials used are trademarks and/or copyrighted works of Epic Games, Inc. All rights reserved by Epic. This material is not official and is not endorsed by Epic.</p>
